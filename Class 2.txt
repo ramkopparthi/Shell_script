@@ -1,0 +1,20 @@
+Class 2
+
+Variable declaration and How to access them?
+Special Charecters $? $# $@ $*
+
+Create a folder >> Name it -> ShellScripting
+step2>>run instance >>  mkdir Devops-Shell-Scripting
+root@ip-10-39-1-154:~# cd Devops-Shell-Scripting/
+root@ip-10-39-1-154:~/Devops-Shell-Scripting# touch testing_variable.sh
+root@ip-10-39-1-154:~/Devops-Shell-Scripting# ll
+
+Create a IAM Role
+Our aim is to describe vpc by using code
+
+IAM -> Create a role >> name it>> give ec2 full access>> Create
+
+Go to Ubuntu Instance >> Right click >> Security >> Modify IAM >> Give existing IAM >> Update
+
+Note:- chmod 700 Exection command
+       nano read/write command
